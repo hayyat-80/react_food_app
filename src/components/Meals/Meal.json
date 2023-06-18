@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Parmesan",
+    "description": "Breaded chicken breast topped with marinara sauce and melted cheese, served with spaghetti.",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Beef Stir Fry",
+    "description": "Tender beef slices with mixed vegetables and soy sauce, served over steamed rice.",
+    "price": 10.99
+  },
+  {
+    "id": 3,
+    "name": "Veggie Pizza",
+    "description": "Thin-crust pizza topped with fresh vegetables and mozzarella cheese.",
+    "price": 9.99
+  },
+  {
+    "id": 4,
+    "name": "Salmon Salad",
+    "description": "Grilled salmon fillet on a bed of mixed greens, cherry tomatoes, and balsamic vinaigrette.",
+    "price": 14.99
+  },
+  {
+    "id": 5,
+    "name": "Pasta Alfredo",
+    "description": "Creamy fettuccine pasta with Parmesan cheese and garlic sauce.",
+    "price": 11.99
+  },
+  {
+    "id": 6,
+    "name": "Margherita Pizza",
+    "description": "Traditional Italian pizza with fresh tomatoes, basil, and mozzarella cheese.",
+    "price": 9.99
+  },
+  {
+    "id": 7,
+    "name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs glazed with tangy barbecue sauce, served with coleslaw and fries.",
+    "price": 16.99
+  },
+  {
+    "id": 8,
+    "name": "Shrimp Scampi",
+    "description": "Sautéed shrimp in a garlic and butter sauce, served over linguine pasta.",
+    "price": 13.99
+  },
+  {
+    "id": 9,
+    "name": "Mushroom Risotto",
+    "description": "Creamy risotto rice cooked with mushrooms, Parmesan cheese, and white wine.",
+    "price": 10.99
+  },
+  {
+    "id": 10,
+    "name": "Grilled Steak",
+    "description": "Juicy grilled steak cooked to perfection, served with roasted potatoes and steamed vegetables.",
+    "price": 18.99
+  }
+]
